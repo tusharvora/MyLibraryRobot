@@ -1,5 +1,5 @@
 /**************Laibrary Book Maneger************/
-//H bridge code for controlling motor
+//H bridge code for controlling motor Mahesh
 //H Motor code pin config
 #define h1 2
 #define h2 3
